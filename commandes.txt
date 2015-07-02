@@ -7,7 +7,9 @@ Workflow standard:
 1) pull
 git pull origin master
 2) Modifier le code
-[...]
+[...] salut
+<3
+:)
 3) vérifier les modifications
 git status
 4) ajouter les modifs
