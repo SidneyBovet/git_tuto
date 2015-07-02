@@ -1,0 +1,3 @@
+[submodule "git_tuto2"]
+	path = git_tuto2
+	url = https://github.com/NoemieJaquier/git_tuto2.git
