@@ -17,4 +17,4 @@ git commit -m "le message"
 (Peut être fait plusieurs fois)
 
 6) Envoyer les commits au serveur
-git push origin maste
+git push origin master
