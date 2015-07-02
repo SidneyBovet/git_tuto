@@ -16,5 +16,5 @@ git add <fichier>
 git commit -m "le message"
 (Peut être fait plusieurs fois)
 
-6) envoyer les commits au serveur
+6) Envoyer les commits au serveur
 git push origin maste
