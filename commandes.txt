@@ -1,2 +1,11 @@
 Initialiser le repo:
 git init
+Ajouter origin (serveur distant)
+git remote add origin <url>
+
+Workflow standard:
+1) pull
+git pull origin master
+2) Modifier le code
+[...]
+3)
