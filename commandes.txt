@@ -14,7 +14,7 @@ git status
 git add <fichier>
 5) commit
 git commit -m "le message"
-(Peut être fait plusieurs fois)
+(Peut Ãªtre fait plusieurs fois)
 
 6) envoyer les commits au serveur
-git push origin master
+git push origin maste
