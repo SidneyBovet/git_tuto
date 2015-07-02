@@ -8,4 +8,12 @@ Workflow standard:
 git pull origin master
 2) Modifier le code
 [...]
-3)
+3) vérifier les modifications
+git status
+4) ajouter les modifs
+git add <fichier>
+5) commit
+git commit -m "le message"
+
+6) envoyer les commits au serveur
+git push origin master
